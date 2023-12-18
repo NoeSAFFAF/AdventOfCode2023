@@ -4,5 +4,12 @@
 
 int main()
 {
-    day1Process();
+    //day1AProcess();
+    //day1BProcess();
+
+    //day2AProcess();
+    //day2BProcess();
+
+    //day3AProcess();
+    day3BProcess();
 }
